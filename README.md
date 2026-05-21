@@ -2,7 +2,7 @@
 
 A clean, beautiful real-time weather app built with **vanilla HTML, CSS & JavaScript**, powered by the [OpenWeatherMap API](https://openweathermap.org/api).
 
-> **First project by [@yourusername](https://github.com/yourusername)** · Built to practice API integration and frontend design.
+> **First project by [@yourusername](https://github.com/drayvorn18)** · Built to practice API integration and frontend design.
 
 ---
 
